@@ -74,4 +74,5 @@ flowchart TD
    I -->|no| J(Fin)
 ```
 ![mermaid-diagram-2023-02-26-220924](https://user-images.githubusercontent.com/124615019/221464004-e88f8368-82c6-4c20-b3ed-d254864f1e70.png)
-### ¡Gracias, espero que haya sido de utilidad para ustedes!
+### ¡Gracias, espero que haya sido de utilidad para ustedes
+#### Juan Camilo Morales Hernández
